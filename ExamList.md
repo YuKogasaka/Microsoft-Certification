@@ -7,11 +7,11 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
 |[AZ-104 : Microsoft Azure Administrator](./Azure%20試験/AZ-104.md)|GA|日本語あり|2021/05/25 改定|対応済|
-|[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2021/05/28 改定|未対応|
+|[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2021/05/28 改定|対応済|
 |[AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure](./Azure%20試験/AZ-140.md)|GA|英語のみ|-|対応済|
-|[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2021/05/26 改定|未対応|
+|[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2021/03/26 改定|対応済|
 |[AZ-220 : Microsoft Azure IoT Developer](./Azure%20試験/AZ-220.md)|GA|日本語あり|2021/05/25 改定|未対応|
-|[AZ-303 : Microsoft Azure Architect Technologies](./Azure%20試験/AZ-303.md)|GA|日本語あり|2021/07/26 改定予定|未対応|
+|[AZ-303 : Microsoft Azure Architect Technologies](./Azure%20試験/AZ-303.md)|GA|日本語あり|2021/07/26 改定予定|対応済|
 |[AZ-304 : Microsoft Azure Architect Design](./Azure%20試験/AZ-304.md)|GA|日本語あり|2021/07/26 改定予定|対応済|
 |AZ-400 : Designing and Implementing Microsoft DevOps Solutions|GA|日本語あり|2021/05/25 改定|対応済|
 |[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2021/08/02 改定予定|未対応|
