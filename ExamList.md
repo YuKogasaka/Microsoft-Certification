@@ -62,11 +62,11 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
 |[DA-100 : Analyzing Data with Microsoft Power BI](./Power%20Platform%20試験/DA-100.md)|GA|日本語あり|2021/07/29 改定予定|対応済|
-|[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|英語のみ|2021/07/23 改定予定|未対応|
-|[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|英語のみ|2021/05/23 改定|未対応|
-|[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2021/07/23 改定予定|未対応|
+|[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|英語のみ|2021/07/23 改定予定|対応済|
+|[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|英語のみ|2021/03/23 改定|対応済|
+|[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2021/07/23 改定予定|対応済|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-1600.md)|GA|英語のみ|-|対応済|
-|[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2021/05/10 改定|未対応|
+|[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2021/03/10 改定|対応済|
 
 ### Security 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
