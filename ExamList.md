@@ -26,7 +26,7 @@
 |[AI-900 : Microsoft Azure AI Fundamentals](./Data%20%26%20AI%20試験/AI-900.md)|GA|日本語あり|2021/04/23 改定予定|対応済|
 |[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2021/05/20 改定|未対応|
 |[DP-203 : Data Engineering on Microsoft Azure](./Data%20%26%20AI%20試験/DP-203.md)|GA|英語のみ|-|対応済|
-|[DP-300 : Administering Relational Databases on Microsoft Azure](./Data%20%26%20AI%20試験/DP-300.md)|GA|日本語あり|2021/07/29 改定予定|未対応|
+|[DP-300 : Administering Relational Databases on Microsoft Azure](./Data%20%26%20AI%20試験/DP-300.md)|GA|日本語あり|2021/07/29 改定予定|対応済|
 |[DP-900 : Microsoft Azure Data Fundamentals](./Data%20%26%20AI%20試験/DP-900.md)|GA|日本語あり|2021/04/23 改定|対応済|
 
 ### Dynamics 365 試験
@@ -54,14 +54,14 @@
 |MS-203 : Microsoft 365 Messaging|GA|英語のみ|2021/05/23 改定|未対応|
 |MS-500 : Microsoft 365 Security Administration|GA|日本語あり|2021/07/26 改定予定|未対応|
 |MS-600 : Building Applications and Solutions with Microsoft 365 Core Services|GA|英語のみ|2021/07/26 改定予定|未対応|
-|MS-700 : Managing Microsoft Teams|GA|英語のみ|2021/07/26 改定予定|未対応|
+|[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2021/07/26 改定予定|対応済|
 |[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|提供前|英語のみ|-|対応済|
 |[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2021/04/23 改定|対応済|
 
 ### Power Platform 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|DA-100 : Analyzing Data with Microsoft Power BI|GA|日本語あり|2021/07/29 改定予定|未対応|
+|[DA-100 : Analyzing Data with Microsoft Power BI](./Power%20Platform%20試験/DA-100.md)|GA|日本語あり|2021/07/29 改定予定|対応済|
 |[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|英語のみ|2021/07/23 改定予定|未対応|
 |[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|英語のみ|2021/05/23 改定|未対応|
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2021/07/23 改定予定|未対応|
