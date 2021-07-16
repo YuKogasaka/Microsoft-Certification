@@ -14,7 +14,7 @@
 |[AZ-303 : Microsoft Azure Architect Technologies](./Azure%20試験/AZ-303.md)|GA|日本語あり|2021/07/26 改定予定|対応済|
 |[AZ-304 : Microsoft Azure Architect Design](./Azure%20試験/AZ-304.md)|GA|日本語あり|2021/07/26 改定予定|対応済|
 |AZ-400 : Designing and Implementing Microsoft DevOps Solutions|GA|日本語あり|2021/05/25 改定|対応済|
-|[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2021/08/02 改定予定|未対応|
+|[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2021/08/02 改定予定|対応済|
 |[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|-|対応済|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|提供前|英語のみ|-|対応済|
 |[AZ-900 : Microsoft Azure Fundamentals](./Azure%20試験/AZ-900.md)|GA|日本語あり|2020/11/9 改定|対応済|
@@ -24,7 +24,7 @@
 |:--|:--|:--|:--|:--|
 |[AI-102 : Designing and Implementing a Microsoft Azure AI Solution](./Data%20%26%20AI%20試験/AI-102.md)|GA|英語のみ|2021/07/29 改定予定|対応済|
 |[AI-900 : Microsoft Azure AI Fundamentals](./Data%20%26%20AI%20試験/AI-900.md)|GA|日本語あり|2021/04/23 改定予定|対応済|
-|[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2021/05/20 改定|未対応|
+|[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2021/05/20 改定|対応済|
 |[DP-203 : Data Engineering on Microsoft Azure](./Data%20%26%20AI%20試験/DP-203.md)|GA|英語のみ|-|対応済|
 |[DP-300 : Administering Relational Databases on Microsoft Azure](./Data%20%26%20AI%20試験/DP-300.md)|GA|日本語あり|2021/07/29 改定予定|対応済|
 |[DP-900 : Microsoft Azure Data Fundamentals](./Data%20%26%20AI%20試験/DP-900.md)|GA|日本語あり|2021/04/23 改定|対応済|
@@ -36,8 +36,8 @@
 |MB-220 : Microsoft Dynamics 365 Marketing|GA|英語のみ|2021/07/09 改定予定|未対応|
 |MB-230 : Microsoft Dynamics 365 Customer Service|GA|英語のみ|2020/10/02 改定|未対応|
 |MB-240 : Microsoft Dynamics 365 Field Service|GA|英語のみ|2021/04/26 改定|未対応|
-|MB-300 : Microsoft Dynamics 365 : Core Finance and Operations|GA|日本語あり|2020/10/16 改定|未対応|
-|MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing|GA|英語のみ|2020/10/16 改定|未対応|
+|MB-300 : Microsoft Dynamics 365 : Core Finance and Operations|GA|日本語あり|2021/08/09 改定|未対応|
+|MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing|GA|英語のみ|2021/08/09 改定|未対応|
 |MB-330 : Microsoft Dynamics 365 Supply Chain Management|GA|英語のみ|2021/07/26 改定予定|未対応|
 |[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)|Beta|英語のみ|-|対応済|
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|英語のみ|2021/04/02 改定|未対応|
@@ -49,7 +49,7 @@
 ### Microsoft 365 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|MS-100 : Microsoft 365 Identity and Services|GA|日本語あり|2021/06/02 改定|未対応|
+|MS-100 : Microsoft 365 Identity and Services|GA|日本語あり|2021/08/05 改定予定|未対応|
 |MS-101 : Microsoft 365 Mobility and Security|GA|日本語あり|2021/07/29 改定予定|未対応|
 |MS-203 : Microsoft 365 Messaging|GA|英語のみ|2021/05/23 改定|未対応|
 |MS-500 : Microsoft 365 Security Administration|GA|日本語あり|2021/07/26 改定予定|未対応|
