@@ -33,7 +33,7 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
 |MB-210 : Microsoft Dynamics 365 Sales|GA|英語のみ|2021/07/23 改定予定|未対応|
-|MB-220 : Microsoft Dynamics 365 Marketing|GA|英語のみ|2021/07/09 改定予定|未対応|
+|MB-220 : Microsoft Dynamics 365 Marketing|GA|英語のみ|2021/07/09 改定|未対応|
 |MB-230 : Microsoft Dynamics 365 Customer Service|GA|英語のみ|2020/10/02 改定|未対応|
 |MB-240 : Microsoft Dynamics 365 Field Service|GA|英語のみ|2021/04/26 改定|未対応|
 |MB-300 : Microsoft Dynamics 365 : Core Finance and Operations|GA|日本語あり|2021/08/09 改定|未対応|
@@ -53,7 +53,7 @@
 |MS-101 : Microsoft 365 Mobility and Security|GA|日本語あり|2021/07/29 改定予定|未対応|
 |MS-203 : Microsoft 365 Messaging|GA|英語のみ|2021/05/23 改定|未対応|
 |MS-500 : Microsoft 365 Security Administration|GA|日本語あり|2021/07/26 改定予定|未対応|
-|MS-600 : Building Applications and Solutions with Microsoft 365 Core Services|GA|英語のみ|2021/07/26 改定予定|未対応|
+|[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|英語のみ|2021/07/26 改定予定|対応済|
 |[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2021/07/26 改定予定|対応済|
 |[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|提供前|英語のみ|-|対応済|
 |[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2021/04/23 改定|対応済|
