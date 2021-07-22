@@ -52,7 +52,7 @@
 |MS-100 : Microsoft 365 Identity and Services|GA|日本語あり|2021/08/05 改定予定|未対応|
 |MS-101 : Microsoft 365 Mobility and Security|GA|日本語あり|2021/07/29 改定予定|未対応|
 |MS-203 : Microsoft 365 Messaging|GA|英語のみ|2021/05/23 改定|未対応|
-|MS-500 : Microsoft 365 Security Administration|GA|日本語あり|2021/07/26 改定予定|未対応|
+|[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)|GA|日本語あり|2021/07/26 改定予定|対応済|
 |[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|英語のみ|2021/07/26 改定予定|対応済|
 |[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2021/07/26 改定予定|対応済|
 |[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|提供前|英語のみ|-|対応済|
