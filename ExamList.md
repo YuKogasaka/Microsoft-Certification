@@ -10,7 +10,7 @@
 |[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2021/05/28 改定|対応済|
 |[AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure](./Azure%20試験/AZ-140.md)|GA|英語のみ|-|対応済|
 |[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2021/03/26 改定|対応済|
-|[AZ-220 : Microsoft Azure IoT Developer](./Azure%20試験/AZ-220.md)|GA|日本語あり|2021/05/25 改定|未対応|
+|[AZ-220 : Microsoft Azure IoT Developer](./Azure%20試験/AZ-220.md)|GA|日本語あり|2021/07/26 改定|対応済|
 |[AZ-303 : Microsoft Azure Architect Technologies](./Azure%20試験/AZ-303.md)|GA|日本語あり|2021/07/26 改定|対応済|
 |[AZ-304 : Microsoft Azure Architect Design](./Azure%20試験/AZ-304.md)|GA|日本語あり|2021/07/26 改定|対応済|
 |AZ-400 : Designing and Implementing Microsoft DevOps Solutions|GA|日本語あり|2021/05/25 改定|対応済|
