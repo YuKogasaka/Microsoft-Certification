@@ -16,7 +16,9 @@
 |AZ-400 : Designing and Implementing Microsoft DevOps Solutions|GA|日本語あり|2021/05/25 改定|対応済|
 |[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2021/08/02 改定|対応済|
 |[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|2021/09/24 改定予定|対応済|
-|[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|提供前|英語のみ|-|対応済|
+|[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|Beta|英語のみ|-|対応済|
+Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure|提供前|英語のみ|-|未対応|
+Exam AZ-801: Configuring Windows Server Hybrid Advanced Services|提供前|英語のみ|-|未対応|
 |[AZ-900 : Microsoft Azure Fundamentals](./Azure%20試験/AZ-900.md)|GA|日本語あり|2020/11/09 改定|対応済|
 
 ### Data & AI 試験
@@ -40,7 +42,7 @@
 |MB-310 : Microsoft Dynamics 365 Finance|GA|英語のみ|2021/08/27 改定|未対応|
 |MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing|GA|英語のみ|2020/10/16 改定|未対応|
 |MB-330 : Microsoft Dynamics 365 Supply Chain Management|GA|英語のみ|2021/07/26 改定|未対応|
-|[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)|Beta|英語のみ|-|対応済|
+|[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)|GA|英語のみ|-|対応済|
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2021/04/02 改定|未対応|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|英語のみ|2021/05/17 改定|対応済|
 |MB-800 : Microsoft Dynamics 365 Business Central Functional Consultant|GA|英語のみ|-|未対応|
@@ -56,7 +58,7 @@
 |[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)|GA|日本語あり|2021/09/24 改定予定|対応済|
 |[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|英語のみ|2021/09/24 改定予定|対応済|
 |[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2021/09/24 改定予定|対応済|
-|[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|提供前|英語のみ|-|対応済|
+|[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|Beta|英語のみ|-|対応済|
 |[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2021/04/23 改定|対応済|
 
 ### Power Platform 試験
