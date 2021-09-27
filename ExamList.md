@@ -17,8 +17,8 @@
 |[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2021/08/02 改定|対応済|
 |[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|2021/09/24 改定予定|対応済|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|Beta|英語のみ|-|対応済|
-Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure|提供前|英語のみ|-|未対応|
-Exam AZ-801: Configuring Windows Server Hybrid Advanced Services|提供前|英語のみ|-|未対応|
+|[Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|提供前|英語のみ|-|対応済|
+|[Exam AZ-801: Configuring Windows Server Hybrid Advanced Services](./Azure%20試験/AZ-801.md)|提供前|英語のみ|-|対応済|
 |[AZ-900 : Microsoft Azure Fundamentals](./Azure%20試験/AZ-900.md)|GA|日本語あり|2020/11/09 改定|対応済|
 
 ### Data & AI 試験
