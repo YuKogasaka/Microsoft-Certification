@@ -40,7 +40,7 @@
 |MB-220 : Microsoft Dynamics 365 Marketing|GA|英語のみ|2021/07/09 改定|未対応|
 |MB-230 : Microsoft Dynamics 365 Customer Service|GA|英語のみ|2021/10/15 改定|未対応|
 |MB-240 : Microsoft Dynamics 365 Field Service|GA|日本語あり|2021/11/12 改定|未対応|
-|MB-260 : Microsoft Customer Data Platform Specialist|提供前|英語のみ|2022/01/04 提供開始予定|対応済|
+|[MB-260 : Microsoft Customer Data Platform Specialist](./Dynamics%20365%20試験/MB-260.md)|英語のみ|-|対応済|
 |MB-300 : Microsoft Dynamics 365 : Core Finance and Operations|GA|日本語あり|2021/08/09 改定|未対応|
 |MB-310 : Microsoft Dynamics 365 Finance|GA|英語のみ|2021/08/27 改定|未対応|
 |MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing|GA|英語のみ|2020/10/16 改定|未対応|
