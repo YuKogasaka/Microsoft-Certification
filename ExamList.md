@@ -70,9 +70,10 @@
 ### Power Platform 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|[DA-100 : Analyzing Data with Microsoft Power BI](./Power%20Platform%20試験/DA-100.md)|GA|日本語あり|2021/11/23 改定|対応済|
+|[DA-100 : Analyzing Data with Microsoft Power BI](./Power%20Platform%20試験/DA-100.md)|GA|日本語あり|2022/03/31 廃止予定|対応済|
 |[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|日本語あり|2021/07/23 改定|対応済|
 |[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2021/10/01 改定|対応済|
+|[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|提供前|英語のみ|2022/02/28 開始予定|対応済|
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2021/06/23 改定|対応済|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|英語のみ|-|対応済|
 |[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2021/03/10 改定|対応済|
