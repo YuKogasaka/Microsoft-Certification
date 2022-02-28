@@ -37,10 +37,10 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
 |MB-210 : Microsoft Dynamics 365 Sales|GA|日本語あり|2021/07/23 改定|未対応|
-|MB-220 : Microsoft Dynamics 365 Marketing|GA|英語のみ|2021/02/28 改定予定|未対応|
+|MB-220 : Microsoft Dynamics 365 Marketing|GA|英語のみ|2022/02/28 改定|未対応|
 |MB-230 : Microsoft Dynamics 365 Customer Service|GA|英語のみ|2021/10/15 改定|未対応|
-|MB-240 : Microsoft Dynamics 365 Field Service|GA|日本語あり|2021/11/12 改定|未対応|
-|[MB-260 : Microsoft Customer Data Platform Specialist](./Dynamics%20365%20試験/MB-260.md)|英語のみ|-|対応済|
+|MB-240 : Microsoft Dynamics 365 Field Service|GA|日本語あり|2022/03/11 改定予定|未対応|
+|[MB-260 : Microsoft Customer Data Platform Specialist](./Dynamics%20365%20試験/MB-260.md)|Beta|英語のみ|対応済|
 |MB-300 : Microsoft Dynamics 365 : Core Finance and Operations|GA|日本語あり|2021/08/09 改定|未対応|
 |MB-310 : Microsoft Dynamics 365 Finance|GA|英語のみ|2021/08/27 改定|未対応|
 |MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing|GA|英語のみ|2020/10/16 改定|未対応|
@@ -48,8 +48,8 @@
 |[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)|GA|英語のみ|-|対応済| 
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2021/04/02 改定|未対応|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|英語のみ|2021/05/17 改定|対応済|
-|MB-800 : Microsoft Dynamics 365 Business Central Functional Consultant|GA|英語のみ|2021/02/14 改定予定|未対応|
-|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|-|対応済|
+|MB-800 : Microsoft Dynamics 365 Business Central Functional Consultant|GA|英語のみ|2022/02/14 改定|未対応|
+|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2022/02/28 改定|対応済|
 |[MB-920 : Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP)](./Dynamics%20365%20試験/MB-920.md)|GA|日本語あり|-|対応済|
 
 ### Microsoft 365 試験
@@ -58,7 +58,7 @@
 |[MD-100 : Windows 10](./Microsoft%20365%20試験/MD-100.md)|GA|日本語あり|2021/12/03 改定|対応済|
 |[MD-101 : Managing Modern Desktops](./Microsoft%20365%20試験/MD-101.md)|GA|日本語あり|2021/11/24 改定|対応済|
 |[MS-100 : Microsoft 365 Identity and Services](./Microsoft%20365%20試験/MS-100.md)|GA|日本語あり|2021/11/30 改定|対応済|
-|[MS-101 : Microsoft 365 Mobility and Security](./Microsoft%20365%20試験/MS-101.md)|GA|日本語あり|2022/02/02 改定予定|対応済|
+|[MS-101 : Microsoft 365 Mobility and Security](./Microsoft%20365%20試験/MS-101.md)|GA|日本語あり|2022/02/02 改定|対応済|
 |[MS-203 : Microsoft 365 Messaging](./Microsoft%20365%20試験/MS-203.md)|GA|英語のみ|2021/11/30 改定|対応済|
 |[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)|GA|日本語あり|2022/01/27 改定|対応済|
 |[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|英語のみ|2021/11/29 改定|対応済|
@@ -74,8 +74,8 @@
 |[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|日本語あり|2021/07/23 改定|対応済|
 |[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2021/10/01 改定|対応済|
 |[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|提供前|英語のみ|2022/02/28 開始予定|対応済|
-|[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2021/06/23 改定|対応済|
-|[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|英語のみ|-|対応済|
+|[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2022/03/14 改定予定|対応済|
+|[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|英語のみ|2022/03/14 改定予定|対応済|
 |[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2021/03/10 改定|対応済|
 
 ### Security 試験
