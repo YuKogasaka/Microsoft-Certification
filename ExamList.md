@@ -18,8 +18,9 @@
 |[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2021/09/29 改定|対応済|
 |[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|2021/11/23 改定|対応済|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|GA|日本語あり|2021/11/23 改定|対応済|
-|[AZ-800: Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|Beta|英語のみ|-|対応済|
-|[AZ-801: Configuring Windows Server Hybrid Advanced Services](./Azure%20試験/AZ-801.md)|Beta|英語のみ|-|対応済|
+|[AZ-720 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-720.md)|提供前|英語のみ|-|対応済|
+|[AZ-800: Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|GA|英語のみ|-|対応済|
+|[AZ-801: Configuring Windows Server Hybrid Advanced Services](./Azure%20試験/AZ-801.md)|GA|英語のみ|-|対応済|
 |[AZ-900 : Microsoft Azure Fundamentals](./Azure%20試験/AZ-900.md)|GA|日本語あり|2022/01/25 改定|対応済|
 
 ### Data & AI 試験
@@ -73,7 +74,7 @@
 |[DA-100 : Analyzing Data with Microsoft Power BI](./Power%20Platform%20試験/DA-100.md)|GA|日本語あり|2022/03/31 廃止予定|対応済|
 |[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|日本語あり|2021/07/23 改定|対応済|
 |[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2021/10/01 改定|対応済|
-|[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|提供前|英語のみ|2022/02/28 開始予定|対応済|
+|[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|GA|英語のみ|-|対応済|
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2022/03/14 改定予定|対応済|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|英語のみ|2022/03/14 改定予定|対応済|
 |[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2021/03/10 改定|対応済|
