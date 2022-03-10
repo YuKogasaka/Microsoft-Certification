@@ -82,6 +82,7 @@
 ### Security 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
+|[SC-100 : Microsoft Cybersecurity Architect](./Security%20試験/SC-100.md)|提供前|英語のみ|2022/04 初旬提供予定|対応済|
 |[SC-200 : Microsoft Security Operations Analyst](./Security%20試験/SC-200.md)|GA|日本語あり|2022/01/28 改定|対応済|
 |[SC-300 : Microsoft Identity and Access Administrator](./Security%20試験/SC-300.md)|GA|日本語あり|2022/01/28 改定|対応済|
 |[SC-400 : Microsoft Information Protection Administrator](./Security%20試験/SC-400.md)|GA|日本語あり|2022/01/28 改定|対応済|
