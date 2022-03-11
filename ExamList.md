@@ -61,6 +61,7 @@
 |[MS-100 : Microsoft 365 Identity and Services](./Microsoft%20365%20試験/MS-100.md)|GA|日本語あり|2021/11/30 改定|対応済|
 |[MS-101 : Microsoft 365 Mobility and Security](./Microsoft%20365%20試験/MS-101.md)|GA|日本語あり|2022/02/02 改定|対応済|
 |[MS-203 : Microsoft 365 Messaging](./Microsoft%20365%20試験/MS-203.md)|GA|英語のみ|2021/11/30 改定|対応済|
+|[MS-220 : Troubleshooting Microsoft Exchange Online (beta)](./Microsoft%20365%20試験/MS-220.md)|提供前|英語のみ|2022/04 中旬提供予定|対応済|
 |[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)|GA|日本語あり|2022/01/27 改定|対応済|
 |[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|英語のみ|2021/11/29 改定|対応済|
 |[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2021/09/24 改定|対応済|
