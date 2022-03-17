@@ -78,6 +78,7 @@
 |[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2021/10/01 改定|対応済|
 |[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|GA|英語のみ|-|対応済|
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|英語のみ|2022/03/14 改定予定|対応済|
+|[PL-500 : Microsoft Power Automate RPA Developer (beta)](./Power%20Platform%20試験/PL-500.md)|提供前|英語のみ|2022/04 提供予定|対応済|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|英語のみ|2022/03/14 改定予定|対応済|
 |[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2021/03/10 改定|対応済|
 
