@@ -68,7 +68,7 @@
 |[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2022/08/01 改定|未対応|
 |[MS-720 : Microsoft Teams Voice Engineer](./Microsoft%20365%20試験/MS-720.md)|GA|英語のみ|2022/05/04 改定|対応済|
 |[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|GA|英語のみ|-|対応済|
-|[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2021/05/18 改定|対応済|
+|[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2022/05/18 改定|対応済|
 
 ### Power Platform 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
@@ -87,7 +87,7 @@
 |:--|:--|:--|:--|:--|
 |[SC-100 : Microsoft Cybersecurity Architect](./Security%20試験/SC-100.md)|GA|英語のみ|-|対応済|
 |[SC-200 : Microsoft Security Operations Analyst](./Security%20試験/SC-200.md)|GA|日本語あり|2022/08/05 改定|未対応|
-|[SC-300 : Microsoft Identity and Access Administrator](./Security%20試験/SC-300.md)|GA|日本語あり|2022/08/01 改定|未対応|
+|[SC-300 : Microsoft Identity and Access Administrator](./Security%20試験/SC-300.md)|GA|日本語あり|2022/08/01 改定|対応済|
 |[SC-400 : Microsoft Information Protection Administrator](./Security%20試験/SC-400.md)|GA|日本語あり|2022/08/01 改定|対応済|
 |[SC-900 : Microsoft Security, Compliance, and Identity Fundamentals](./Security%20試験/SC-900.md)|GA|日本語あり|2022/07/29 改定|対応済|
 
