@@ -89,7 +89,7 @@
 |[SC-200 : Microsoft Security Operations Analyst](./Security%20試験/SC-200.md)|GA|日本語あり|2022/08/05 改定|未対応|
 |[SC-300 : Microsoft Identity and Access Administrator](./Security%20試験/SC-300.md)|GA|日本語あり|2022/08/01 改定|未対応|
 |[SC-400 : Microsoft Information Protection Administrator](./Security%20試験/SC-400.md)|GA|日本語あり|2022/08/01 改定|未対応|
-|[SC-900 : Microsoft Security, Compliance, and Identity Fundamentals](./Security%20試験/SC-900.md)|GA|日本語あり|2022/07/29 改定|未対応|
+|[SC-900 : Microsoft Security, Compliance, and Identity Fundamentals](./Security%20試験/SC-900.md)|GA|日本語あり|2022/07/29 改定|対応済|
 
 ## 参考サイト
 - 認定資格および試験を見る | Microsoft Docs  
