@@ -33,7 +33,7 @@
 |[DP-300 : Administering Relational Databases on Microsoft Azure](./Data%20%26%20AI%20試験/DP-300.md)|GA|日本語あり|2022/08/04 改定|未対応|
 |[DP-420 : Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](./Data%20%26%20AI%20試験/DP-420.md)|GA|日本語あり|2022/08/04 改定|未対応|
 |[DP-500 : Designing and Implementing EnterpriseScale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](./Data%20%26%20AI%20試験/DP-500.md)|GA|英語のみ|-|対応済|
-|[DP-900 : Microsoft Azure Data Fundamentals](./Data%20%26%20AI%20試験/DP-900.md)|GA|日本語あり|2022/08/04 改定|未対応|
+|[DP-900 : Microsoft Azure Data Fundamentals](./Data%20%26%20AI%20試験/DP-900.md)|GA|日本語あり|2022/08/04 改定|対応済|
 
 ### Dynamics 365 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
@@ -86,7 +86,7 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
 |[SC-100 : Microsoft Cybersecurity Architect](./Security%20試験/SC-100.md)|GA|英語のみ|-|対応済|
-|[SC-200 : Microsoft Security Operations Analyst](./Security%20試験/SC-200.md)|GA|日本語あり|2022/08/05 改定|未対応|
+|[SC-200 : Microsoft Security Operations Analyst](./Security%20試験/SC-200.md)|GA|日本語あり|2022/08/05 改定|対応済|
 |[SC-300 : Microsoft Identity and Access Administrator](./Security%20試験/SC-300.md)|GA|日本語あり|2022/08/01 改定|対応済|
 |[SC-400 : Microsoft Information Protection Administrator](./Security%20試験/SC-400.md)|GA|日本語あり|2022/08/01 改定|対応済|
 |[SC-900 : Microsoft Security, Compliance, and Identity Fundamentals](./Security%20試験/SC-900.md)|GA|日本語あり|2022/07/29 改定|対応済|
