@@ -6,7 +6,7 @@
 ### Azure 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|[AZ-104 : Microsoft Azure Administrator](./Azure%20試験/AZ-104.md)|GA|日本語あり|2022/07/28 改定|未対応|
+|[AZ-104 : Microsoft Azure Administrator](./Azure%20試験/AZ-104.md)|GA|日本語あり|2022/07/28 改定|対応済|
 |[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2022/07/28 改定|未対応|
 |[AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure](./Azure%20試験/AZ-140.md)|GA|日本語あり|2022/08/04 改定|未対応|
 |[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2022/04/19 改定|対応済|
