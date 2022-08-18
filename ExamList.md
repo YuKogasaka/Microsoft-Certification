@@ -16,7 +16,7 @@
 |[AZ-305 : Designing Microsoft Azure Infrastructure Solutions](./Azure%20試験/AZ-305.md)|GA|日本語あり|-|対応済|
 |[AZ-400 : Designing and Implementing Microsoft DevOps Solutions](./Azure%20試験/AZ-400.md)|GA|日本語あり|2022/07/13 改定|対応済|
 |[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2022/08/02 改定|未対応|
-|[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|2022/07/29 改定|未対応|
+|[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|2022/07/29 改定|対応済|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|GA|日本語あり|2021/11/23 改定|対応済|
 |[AZ-720 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-720.md)|GA|日本語あり|-|対応済|
 |[AZ-800 : Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|GA|日本語あり|2022/08/03 改定|未対応|
