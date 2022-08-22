@@ -7,7 +7,7 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
 |[AZ-104 : Microsoft Azure Administrator](./Azure%20試験/AZ-104.md)|GA|日本語あり|2022/07/28 改定|対応済|
-|[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2022/07/28 改定|未対応|
+|[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2022/07/28 改定|対応済|
 |[AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure](./Azure%20試験/AZ-140.md)|GA|日本語あり|2022/08/04 改定|対応済|
 |[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2022/04/19 改定|対応済|
 |[AZ-220 : Microsoft Azure IoT Developer](./Azure%20試験/AZ-220.md)|GA|日本語あり|2022/07/28 改定|対応済|
@@ -26,7 +26,7 @@
 ### Data & AI 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|[AI-102 : Designing and Implementing a Microsoft Azure AI Solution](./Data%20%26%20AI%20試験/AI-102.md)|GA|日本語あり|2022/08/02 改定|未対応|
+|[AI-102 : Designing and Implementing a Microsoft Azure AI Solution](./Data%20%26%20AI%20試験/AI-102.md)|GA|日本語あり|2022/08/02 改定|対応済|
 |[AI-900 : Microsoft Azure AI Fundamentals](./Data%20%26%20AI%20試験/AI-900.md)|GA|日本語あり|2022/04/29 改定|対応済|
 |[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2021/05/20 改定|対応済|
 |[DP-203 : Data Engineering on Microsoft Azure](./Data%20%26%20AI%20試験/DP-203.md)|GA|日本語あり|-|対応済|
