@@ -75,7 +75,7 @@
 |:--|:--|:--|:--|:--|
 |~~[DA-100 : Analyzing Data with Microsoft Power BI]~~(./Power%20Platform%20試験/DA-100.md)|~~GA~~|~~日本語あり~~|~~2022/03/31 廃止~~|~~対応済~~|
 |[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|日本語あり|2021/07/23 改定|対応済|
-|[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2022/05/10 改定|未対応|
+|[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2022/05/10 改定|対応済|
 |[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|GA|日本語あり|-|対応済|
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|日本語あり|2022/06/22 改定|対応済|
 |[PL-500 : Microsoft Power Automate RPA Developer](./Power%20Platform%20試験/PL-500.md)|GA|英語のみ|-|対応済|
