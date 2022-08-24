@@ -65,7 +65,7 @@
 |[MS-220 : Troubleshooting Microsoft Exchange Online](./Microsoft%20365%20試験/MS-220.md)|GA|英語のみ|-|対応済|
 |[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)|GA|日本語あり|2022/05/04 改定|対応済|
 |[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|日本語あり|2022/08/04 改定|未対応|
-|[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|英語のみ|2022/08/01 改定|未対応|
+|[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|日本語あり|2022/08/01 改定|対応済|
 |[MS-720 : Microsoft Teams Voice Engineer](./Microsoft%20365%20試験/MS-720.md)|GA|英語のみ|2022/05/04 改定|対応済|
 |[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|GA|英語のみ|-|対応済|
 |[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2022/05/18 改定|対応済|
