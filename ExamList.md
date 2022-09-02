@@ -80,7 +80,7 @@
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|日本語あり|2022/09/19 改定予定|未対応|
 |[PL-500 : Microsoft Power Automate RPA Developer](./Power%20Platform%20試験/PL-500.md)|GA|英語のみ|-|対応済|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|日本語あり|2022/09/26 改定予定|未対応|
-|[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2022/09/29 改定予定|未対応|
+|[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2022/09/29 改定予定|対応済|
 
 ### Security 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
