@@ -19,8 +19,8 @@
 |[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)|GA|日本語あり|2022/07/29 改定|対応済|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|GA|日本語あり|2021/11/23 改定|対応済|
 |[AZ-720 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-720.md)|GA|日本語あり|-|対応済|
-|[AZ-800 : Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|GA|日本語あり|2022/08/03 改定|未対応|
-|[AZ-801 : Configuring Windows Server Hybrid Advanced Services](./Azure%20試験/AZ-801.md)|GA|日本語あり|2022/08/03 改定|未対応|
+|[AZ-800 : Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|GA|日本語あり|2022/08/03 改定|対応済|
+|[AZ-801 : Configuring Windows Server Hybrid Advanced Services](./Azure%20試験/AZ-801.md)|GA|日本語あり|2022/08/03 改定|対応済|
 |[AZ-900 : Microsoft Azure Fundamentals](./Azure%20試験/AZ-900.md)|GA|日本語あり|2022/05/05 改定|対応済|
 
 ### Data & AI 試験
