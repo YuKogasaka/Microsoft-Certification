@@ -52,7 +52,7 @@
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2022/12/27 改定|未対応|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|日本語あり|2022/04/22 改定|未対応|
 |MB-800 : Microsoft Dynamics 365 Business Central Functional Consultant|GA|日本語あり|2022/09/26 改定|未対応|
-|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2022/12/27 改定|未対応|
+|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2022/12/27 改定|対応済|
 |[MB-920 : Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP)](./Dynamics%20365%20試験/MB-920.md)|GA|日本語あり|2022/12/20 改定|未対応|
 
 ### Microsoft 365 試験
