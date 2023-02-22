@@ -58,8 +58,8 @@
 ### Microsoft 365 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|[MD-100 : Windows 10](./Microsoft%20365%20試験/MD-100.md)|GA|日本語あり|2023/02/03 改定|未対応|
-|[MD-101 : Managing Modern Desktops](./Microsoft%20365%20試験/MD-101.md)|GA|日本語あり|2023/02/03 改定|未対応|
+|[MD-100 : Windows 10](./Microsoft%20365%20試験/MD-100.md)|GA|日本語あり|2023/02/03 改定|対応済|
+|[MD-101 : Managing Modern Desktops](./Microsoft%20365%20試験/MD-101.md)|GA|日本語あり|2023/02/03 改定|対応済|
 |[MS-100 : Microsoft 365 Identity and Services](./Microsoft%20365%20試験/MS-100.md)|GA|日本語あり|2023/02/03 改定|対応済|
 |[MS-101 : Microsoft 365 Mobility and Security](./Microsoft%20365%20試験/MS-101.md)|GA|日本語あり|2022/11/02 改定|対応済|
 |[MS-203 : Microsoft 365 Messaging](./Microsoft%20365%20試験/MS-203.md)|GA|日本語あり|2022/10/31 改定|対応済|
