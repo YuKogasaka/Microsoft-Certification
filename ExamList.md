@@ -9,7 +9,7 @@
 |[AZ-104 : Microsoft Azure Administrator](./Azure%20試験/AZ-104.md)|GA|日本語あり|2022/10/27 改定|対応済|
 |[AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads](./Azure%20試験/AZ-120.md)|GA|日本語あり|2023/01/30 改定|対応済|
 |[AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure](./Azure%20試験/AZ-140.md)|GA|日本語あり|2022/10/27 改定|対応済|
-|[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2023/01/20 改定|未対応|
+|[AZ-204 : Developing Solutions for Microsoft Azure](./Azure%20試験/AZ-204.md)|GA|日本語あり|2023/01/20 改定|対応済|
 |[AZ-220 : Microsoft Azure IoT Developer](./Azure%20試験/AZ-220.md)|GA|日本語あり|2023/01/30 改定|対応済|
 |~~[AZ-303 : Microsoft Azure Architect Technologies]~~(./Azure%20試験/AZ-303.md)|~~GA~~|~~日本語あり~~|~~2022/03/31 廃止~~|~~対応済~~|
 |~~[AZ-304 : Microsoft Azure Architect Design]~~(./Azure%20試験/AZ-304.md)|~~GA~~|~~日本語あり~~|~~2022/03/31 廃止~~|~~対応済~~|
