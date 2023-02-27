@@ -31,7 +31,7 @@
 |[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2022/10/18 改定|対応済|
 |[DP-203 : Data Engineering on Microsoft Azure](./Data%20%26%20AI%20試験/DP-203.md)|GA|日本語あり|2023/02/06 改定|対応済|
 |[DP-300 : Administering Microsoft Azure SQL Solutions](./Data%20%26%20AI%20試験/DP-300.md)|GA|日本語あり|2023/02/02 改定|対応済|
-|[DP-420 : Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](./Data%20%26%20AI%20試験/DP-420.md)|GA|日本語あり|2023/02/06 改定|未対応|
+|[DP-420 : Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](./Data%20%26%20AI%20試験/DP-420.md)|GA|日本語あり|2023/02/06 改定|対応済|
 |[DP-500 : Designing and Implementing EnterpriseScale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](./Data%20%26%20AI%20試験/DP-500.md)|GA|日本語あり|2023/02/06 改定|未対応|
 |[DP-900 : Microsoft Azure Data Fundamentals](./Data%20%26%20AI%20試験/DP-900.md)|GA|日本語あり|2022/08/04 改定|対応済|
 
