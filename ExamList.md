@@ -26,7 +26,7 @@
 ### Data & AI 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|反映状況|  
 |:--|:--|:--|:--|:--|
-|[AI-102 : Designing and Implementing a Microsoft Azure AI Solution](./Data%20%26%20AI%20試験/AI-102.md)|GA|日本語あり|2023/02/02 改定|未対応|
+|[AI-102 : Designing and Implementing a Microsoft Azure AI Solution](./Data%20%26%20AI%20試験/AI-102.md)|GA|日本語あり|2023/02/02 改定|対応済|
 |[AI-900 : Microsoft Azure AI Fundamentals](./Data%20%26%20AI%20試験/AI-900.md)|GA|日本語あり|2022/04/29 改定|対応済|
 |[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2022/10/18 改定|対応済|
 |[DP-203 : Data Engineering on Microsoft Azure](./Data%20%26%20AI%20試験/DP-203.md)|GA|日本語あり|2023/02/06 改定|対応済|
