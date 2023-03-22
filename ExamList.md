@@ -70,6 +70,7 @@
 |[MS-600 : Building Applications and Solutions with Microsoft 365 Core Services](./Microsoft%20365%20試験/MS-600.md)|GA|日本語あり|2022/10/31 改定 (2023/04/02 廃止予定)|対応済|
 |[MS-700 : Managing Microsoft Teams](./Microsoft%20365%20試験/MS-700.md)|GA|日本語あり|2023/02/01 改定|対応済|
 |[MS-720 : Microsoft Teams Voice Engineer](./Microsoft%20365%20試験/MS-720.md)|GA|日本語あり|2022/11/04 改定 (2023/06/30 廃止予定)|対応済|
+|[MS-721 : Collaboration Communications Systems Engineer](./Microsoft%20365%20試験/MS-721.md)|Beta|英語のみ|-|対応済|
 |MS-721 : Collaboration Communications Systems Engineer|beta|英語のみ|2023/03/21 提供予定|未対応|
 |[MS-740 : Troubleshooting Microsoft Teams](./Microsoft%20365%20試験/MS-740.md)|GA|日本語あり|2023/01/20 改定|対応済|
 |[MS-900 : Microsoft 365 Fundamentals](./Microsoft%20365%20試験/MS-900.md)|GA|日本語あり|2023/01/20 改定|対応済|
