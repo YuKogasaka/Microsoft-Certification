@@ -47,7 +47,7 @@
 |MB-310 : Microsoft Dynamics 365 Finance|GA|日本語あり|2023/03/21 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-310)|
 |~~MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-320)~~|
 |MB-330 : Microsoft Dynamics 365 Supply Chain Management|GA|日本語あり|2023/03/17 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-330)|
-|MB-335 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert|GA|英語のみ|2023/09/01 改定予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-335)|
+|MB-335 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert|GA|英語のみ|2023/09/01 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-335)|
 |~~[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-340)~~| 
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2022/12/27 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-500)|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|日本語あり|2023/09/19 改定予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-700)|
@@ -60,10 +60,10 @@
 |:--|:--|:--|:--|:--|
 |[MD-100 : Windows 10](./Microsoft%20365%20試験/MD-100.md)|GA|日本語あり|2023/09/30 廃止予定|リンク|
 |[MD-101 : Managing Modern Desktops](./Microsoft%20365%20試験/MD-101.md)|GA|日本語あり|2023/09/30 廃止予定|リンク|
-|MD-102 : Endpoint Administrator|beta|英語のみ|2023/09/06 提供予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MD-102)|
+|MD-102 : Endpoint Administrator|GA|英語のみ|2023/09/06 提供開始|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MD-102)|
 |[MS-100 : Microsoft 365 Identity and Services](./Microsoft%20365%20試験/MS-100.md)|GA|日本語あり|2023/09/30 廃止予定|リンク|
 |[MS-101 : Microsoft 365 Mobility and Security](./Microsoft%20365%20試験/MS-101.md)|GA|日本語あり|2023/09/30 廃止予定|リンク|
-|MS-102 : Microsoft 365 Administrator|beta|英語のみ|2023/09/06 提供予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MS-102)|
+|MS-102 : Microsoft 365 Administrator|GA|英語のみ|2023/09/06 提供開始|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MS-102)|
 |[MS-203 : Microsoft 365 Messaging](./Microsoft%20365%20試験/MS-203.md)|GA|日本語あり|2023/12 廃止予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MS-203)|
 |~~[MS-220 : Troubleshooting Microsoft Exchange Online](./Microsoft%20365%20試験/MS-220.md)~~|~~GA~~|~~英語のみ~~|~~2023/07/31 廃止~~|~~リンク~~|
 |~~[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~リンク~~|
