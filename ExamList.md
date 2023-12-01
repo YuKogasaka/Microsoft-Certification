@@ -49,10 +49,10 @@
 |MB-330 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant|GA|日本語あり|2023/03/17 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-330)|
 |MB-335 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert|GA|日本語あり|-|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-335)|
 |~~[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-340)~~| 
-|MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2023/09/29 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-500)|
+|MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2023/12/27 改定予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-500)|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|日本語あり|2023/04/03 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-700)|
 |MB-800 : Microsoft Dynamics 365 Business Central Functional Consultant|GA|日本語あり|2023/03/24 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-800)|
-|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2023/10/09 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-910)|
+|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2023/12/27 改定予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-910)|
 |[MB-920 : Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP)](./Dynamics%20365%20試験/MB-920.md)|GA|日本語あり|2023/12/19 改定予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/MB-920)|
 
 ### Microsoft 365 試験
@@ -84,7 +84,7 @@
 |[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|日本語あり|2023/09/19 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/PL-400)|
 |[PL-500 : Microsoft Power Automate RPA Developer](./Power%20Platform%20試験/PL-500.md)|GA|日本語あり|2023/06/27 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/PL-500)|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|日本語あり|2023/09/26 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/PL-600)|
-|[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2023/06/22 改定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/PL-900)|
+|[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2023/12/27 改定予定|[リンク](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/PL-900)|
 
 ### Security 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
