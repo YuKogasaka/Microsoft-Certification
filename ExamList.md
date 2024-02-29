@@ -53,6 +53,7 @@
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2023/12/27 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-500)|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|日本語あり|2024/03/18 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-700)|
 |Microsoft Certified : Dynamics 365 Business Central Functional Consultant Associate|GA|日本語あり|2023/03/24 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-800)|
+|MB-820 : Microsoft Dynamics 365 Business Central Developer|Beta|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820)|
 |[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2024/03/26 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-910)|
 |[MB-920 : Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP)](./Dynamics%20365%20試験/MB-920.md)|GA|日本語あり|2023/12/19 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-920)|
 
