@@ -19,7 +19,7 @@
 |~~[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)~~|~~GA~~|~~日本語あり~~|~~2023/07/31 廃止~~|~~[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-600)~~|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|GA|日本語あり|2024/01/29 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-700)|
 |~~[AZ-720 : Troubleshooting Microsoft Azure Connectivity](./Azure%20試験/AZ-720.md)~~|~~GA~~|~~日本語あり~~|~~2023/07/31 廃止~~|~~リンク~~|
-|[AZ-800 : Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|GA|日本語あり|2024/01/29 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-800)|
+|[AZ-800 : Administering Windows Server Hybrid Core Infrastructure](./Azure%20試験/AZ-800.md)|GA|日本語あり|2024/04/25 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-800)|
 |[AZ-801 : Configuring Windows Server Hybrid Advanced Services](./Azure%20試験/AZ-801.md)|GA|日本語あり|2023/08/24 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-801)|
 |[AZ-900 : Microsoft Azure Fundamentals](./Azure%20試験/AZ-900.md)|GA|日本語あり|2024/01/23 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-900)|
 
@@ -39,7 +39,7 @@
 ### Dynamics 365 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
-|MB-210 : Microsoft Dynamics 365 Sales Functional Consultant|GA|日本語あり|2023/09/27 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-210)|
+|MB-210 : Microsoft Dynamics 365 Sales Functional Consultant|GA|日本語あり|2024/04/25 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-210)|
 |MB-220 : Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant|GA|日本語あり|2024/03/20 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-220)|
 |MB-230 : Microsoft Dynamics 365 Customer Service Functional Consultant|GA|日本語あり|2024/03/18 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-230)|
 |MB-240 : Microsoft Dynamics 365 Field Service Functional Consultant|GA|日本語あり|2024/01/12 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-240)|
@@ -65,7 +65,7 @@
 |MD-102 : Endpoint Administrator|GA|日本語あり|2024/01/30 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MD-102)|
 |~~[MS-100 : Microsoft 365 Identity and Services](./Microsoft%20365%20試験/MS-100.md)~~|~~GA~~|~~日本語あり~~|~~2023/09/30 廃止~~|~~リンク~~|
 |~~[MS-101 : Microsoft 365 Mobility and Security](./Microsoft%20365%20試験/MS-101.md)~~|~~GA~~|~~日本語あり~~|~~2023/09/30 廃止~~|~~リンク~~|
-|MS-102 : Microsoft 365 Administrator|GA|日本語あり|2024/01/30 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MS-102)|
+|MS-102 : Microsoft 365 Administrator|GA|日本語あり|2024/04/26 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MS-102)|
 |~~[MS-203 : Microsoft 365 Messaging](./Microsoft%20365%20試験/MS-203.md)~~|~~GA~~|~~日本語あり~~|~~2023/12/31 廃止~~|~~リンク~~|
 |~~[MS-220 : Troubleshooting Microsoft Exchange Online](./Microsoft%20365%20試験/MS-220.md)~~|~~GA~~|~~英語のみ~~|~~2023/07/31 廃止~~|~~リンク~~|
 |~~[MS-500 : Microsoft 365 Security Administration](./Microsoft%20365%20試験/MS-500.md)~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~リンク~~|
@@ -91,7 +91,7 @@
 ### Security 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
-|[SC-100 : Microsoft Cybersecurity Architect](./Security%20試験/SC-100.md)|GA|日本語あり|2024/01/23 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-100)|
+|[SC-100 : Microsoft Cybersecurity Architect](./Security%20試験/SC-100.md)|GA|日本語あり|2024/04/23 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-100)|
 |[SC-200 : Microsoft Security Operations Analyst](./Security%20試験/SC-200.md)|GA|日本語あり|2024/03/04 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-200)|
 |[SC-300 : Microsoft Identity and Access Administrator](./Security%20試験/SC-300.md)|GA|日本語あり|2024/01/31 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-300)|
 |[SC-400 : Administering Information Protection and Compliance in Microsoft 365](./Security%20試験/SC-400.md)|GA|日本語あり|2023/08/22 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-400)|
