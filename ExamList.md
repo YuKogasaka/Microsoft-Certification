@@ -14,8 +14,8 @@
 |~~[AZ-303 : Microsoft Azure Architect Technologies](./Azure%20試験/AZ-303.md)~~|~~GA~~|~~日本語あり~~|~~2022/03/31 廃止~~|~~リンク~~|
 |~~[AZ-304 : Microsoft Azure Architect Design](./Azure%20試験/AZ-304.md)~~|~~GA~~|~~日本語あり~~|~~2022/03/31 廃止~~|~~リンク~~|
 |[AZ-305 : Designing Microsoft Azure Infrastructure Solutions](./Azure%20試験/AZ-305.md)|GA|日本語あり|2024/01/22 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-305)|
-|[AZ-400 : Designing and Implementing Microsoft DevOps Solutions](./Azure%20試験/AZ-400.md)|GA|日本語あり|2024/01/29 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-400)|
-|[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2024/01/31 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-500)|
+|[AZ-400 : Designing and Implementing Microsoft DevOps Solutions](./Azure%20試験/AZ-400.md)|GA|日本語あり|2024/05/03 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-400)|
+|[AZ-500 : Microsoft Azure Security Technologies](./Azure%20試験/AZ-500.md)|GA|日本語あり|2024/04/30 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-500)|
 |~~[AZ-600 : Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](./Azure%20試験/AZ-600.md)~~|~~GA~~|~~日本語あり~~|~~2023/07/31 廃止~~|~~[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-600)~~|
 |[AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions](./Azure%20試験/AZ-700.md)|GA|日本語あり|2024/04/25 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-700)|
 |~~[AZ-720 : Troubleshooting Microsoft Azure Connectivity](./Azure%20試験/AZ-720.md)~~|~~GA~~|~~日本語あり~~|~~2023/07/31 廃止~~|~~リンク~~|
@@ -27,13 +27,13 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
 |[AI-102 : Designing and Implementing a Microsoft Azure AI Solution](./Data%20%26%20AI%20試験/AI-102.md)|GA|日本語あり|2024/03/28 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-102)|
-|[AI-900 : Microsoft Azure AI Fundamentals](./Data%20%26%20AI%20試験/AI-900.md)|GA|日本語あり|2024/04/25 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-900)|
+|[AI-900 : Microsoft Azure AI Fundamentals](./Data%20%26%20AI%20試験/AI-900.md)|GA|日本語あり|2024/04/24 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-900)|
 |[DP-100 : Designing and Implementing a Data Science Solution on Azure](./Data%20%26%20AI%20試験/DP-100.md)|GA|日本語あり|2024/04/15 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-100)|
 |[DP-203 : Data Engineering on Microsoft Azure](./Data%20%26%20AI%20試験/DP-203.md)|GA|日本語あり|2023/11/02 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-203)|
 |[DP-300 : Administering Microsoft Azure SQL Solutions](./Data%20%26%20AI%20試験/DP-300.md)|GA|日本語あり|2024/04/25 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-300)|
 |[DP-420 : Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](./Data%20%26%20AI%20試験/DP-420.md)|GA|日本語あり|2024/04/24 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-420)|
-|[DP-500 : Designing and Implementing EnterpriseScale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](./Data%20%26%20AI%20試験/DP-500.md)|GA|日本語あり|2024/01/30 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-500)|
-|DP-600 : Implementing Analytics Solutions Using Microsoft Fabric|GA|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-600)|
+|~~[DP-500 : Designing and Implementing EnterpriseScale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](./Data%20%26%20AI%20試験/DP-500.md)~~|~~GA~~|~~日本語あり~~|~~2024/04/30 廃止~~|~~[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-500)~~|
+|DP-600 : Implementing Analytics Solutions Using Microsoft Fabric|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-600)|
 |[DP-900 : Microsoft Azure Data Fundamentals](./Data%20%26%20AI%20試験/DP-900.md)|GA|日本語あり|2024/02/01 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-900)|
 
 ### Dynamics 365 試験
@@ -47,14 +47,14 @@
 |~~MB-300 : Microsoft Dynamics 365 : Core Finance and Operations~~|~~GA~~|~~日本語あり~~|~~2024/02/29 廃止~~|~~[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-300)~~|
 |MB-310 : Microsoft Dynamics 365 Finance Functional Consultant|GA|日本語あり|2023/03/29 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-310)|
 |~~MB-320 : Microsoft Dynamics 365 Supply Chain Management, Manufacturing~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-320)~~|
-|MB-330 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant|GA|日本語あり|2023/03/17 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-330)|
-|MB-335 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-335)|
+|MB-330 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant|GA|日本語あり|2023/07/12 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-330)|
+|MB-335 : Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert|GA|日本語あり|2023/07/12 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-335)|
 |~~[MB-340 : Microsoft Dynamics 365 Commerce Functional Consultant](./Dynamics%20365%20試験/MB-340.md)~~|~~GA~~|~~日本語あり~~|~~2023/06/30 廃止~~|~~[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-340)~~| 
 |MB-500 : Microsoft Dynamics 365 : Finance and Operations Apps Developer|GA|日本語あり|2023/12/27 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-500)|
 |MB-700 : Microsoft Dynamics 365: Finance and Operations Apps Solution Architect|GA|日本語あり|2024/03/18 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-700)|
 |Microsoft Certified : Dynamics 365 Business Central Functional Consultant Associate|GA|日本語あり|2023/03/25 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-800)|
 |MB-820 : Microsoft Dynamics 365 Business Central Developer|Beta|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820)|
-|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2024/03/26 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-910)|
+|[MB-910 : Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM)](./Dynamics%20365%20試験/MB-910.md)|GA|日本語あり|2024/06/18 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-910)|
 |[MB-920 : Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP)](./Dynamics%20365%20試験/MB-920.md)|GA|日本語あり|2023/12/19 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/MB-920)|
 
 ### Microsoft 365 試験
@@ -83,8 +83,8 @@
 |[PL-100 : Microsoft Power Platform App Maker](./Power%20Platform%20試験/PL-100.md)|GA|日本語あり|2024/06/30 廃止予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-100)|
 |[PL-200 : Microsoft Power Platform Functional Consultant](./Power%20Platform%20試験/PL-200.md)|GA|日本語あり|2024/01/12 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-200)|
 |[PL-300 : Microsoft Power BI Data Analyst](./Power%20Platform%20試験/PL-300.md)|GA|日本語あり|2024/04/23 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-300)|
-|[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|日本語あり|2023/09/19 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-400)|
-|[PL-500 : Microsoft Power Automate RPA Developer](./Power%20Platform%20試験/PL-500.md)|GA|日本語あり|2024/01/27 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-500)|
+|[PL-400 : Microsoft Power Platform Developer](./Power%20Platform%20試験/PL-400.md)|GA|日本語あり|2023/06/20 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-400)|
+|[PL-500 : Microsoft Power Automate RPA Developer](./Power%20Platform%20試験/PL-500.md)|GA|日本語あり|2024/06/27 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-500)|
 |[PL-600 : Microsoft Power Platform Solution Architect](./Power%20Platform%20試験/PL-600.md)|GA|日本語あり|2023/09/26 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-600)|
 |[PL-900 : Microsoft Power Platform Fundamentals](./Power%20Platform%20試験/PL-900.md)|GA|日本語あり|2024/04/08 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-900)|
 
