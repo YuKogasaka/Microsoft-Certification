@@ -6,22 +6,22 @@
 ### AI Business 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
-|AB-100 : Agentic AI Business Solutions Architect|GA|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-100)|
-|AB-730 : AI Business Professional|Beta|GA|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-730)|
-|AB-731 : AI Transformation Leader|Beta|GA|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-731)|
-|AB-900 : Copilot & Agent Administration Fundamentals|GA|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-900)|
+|AB-100 : Agentic AI Business Solutions Architect|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-100)|
+|AB-730 : AI Business Professional|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-730)|
+|AB-731 : AI Transformation Leader|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-731)|
+|AB-900 : Copilot & Agent Administration Fundamentals|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-900)|
 
 ### Azure 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
-|AZ-104 : Microsoft Azure Administrator|GA|日本語あり|2025/04/18 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104)|
-|AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads|GA|日本語あり|2026/01/14 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-120)|
-|AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure|GA|日本語あり|2026/01/14 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-140)|
-|AZ-204 : Developing Solutions for Microsoft Azure|GA|日本語あり|2026/01/14 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-204)|
-|AZ-305 : Designing Microsoft Azure Infrastructure Solutions|GA|日本語あり|2024/10/18 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-305)|
-|AZ-400 : Designing and Implementing Microsoft DevOps Solutions|GA|日本語あり|2024/07/26 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-400)|
-|AZ-500 : Microsoft Azure Security Technologies|GA|日本語あり|2026/01/22 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-500)|
-|AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions|GA|日本語あり|2026/01/21 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-700)|
+|AZ-104 : Microsoft Azure Administrator|GA|日本語あり|2026/04/17 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104)|
+|AZ-120 : Planning and Administering Microsoft Azure for SAP Workloads|GA|日本語あり|2026/04/17 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-120)|
+|AZ-140 : Configuring and Operating Windows Virtual Desktop on Microsoft Azure|GA|日本語あり|2026/04/17 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-140)|
+|AZ-204 : Developing Solutions for Microsoft Azure|GA|日本語あり|2026/07/31 廃止予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-204)|
+|AZ-305 : Designing Microsoft Azure Infrastructure Solutions|GA|日本語あり|2026/04/17 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-305)|
+|AZ-400 : Designing and Implementing Microsoft DevOps Solutions|GA|日本語あり|2026/04/24 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-400)|
+|AZ-500 : Microsoft Azure Security Technologies|GA|日本語あり|2026/08/31 廃止予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-500)|
+|AZ-700 : Designing and Implementing Microsoft Azure Networking Solutions|GA|日本語あり|2026/04/24 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-700)|
 |AZ-800 : Administering Windows Server Hybrid Core Infrastructure|GA|日本語あり|2026/01/21 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-800)|
 |AZ-801 : Configuring Windows Server Hybrid Advanced Services|GA|日本語あり|2025/10/06 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-801)|
 |AZ-900 : Microsoft Azure Fundamentals|GA|日本語あり|2026/01/14 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AZ-900)|
@@ -29,13 +29,16 @@
 ### Data & AI 試験
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
-|AI-102 : Designing and Implementing a Microsoft Azure AI Solution|GA|日本語あり|2025/13/23 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-102)|
-|AI-900 : Microsoft Azure AI Fundamentals|GA|日本語あり|2025/05/02 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-900)|
-|DP-100 : Designing and Implementing a Data Science Solution on Azure|GA|日本語あり|2025/04/11 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-100)|
-|DP-300 : Administering Microsoft Azure SQL Solutions|GA|日本語あり|2024/10/25 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-300)|
-|DP-420 : Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB|GA|日本語あり|2025/01/27 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-420)|
-|DP-600 : Implementing Analytics Solutions Using Microsoft Fabric|GA|日本語あり|2026/01/15 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-600)|
-|DP-700 : Implementing Data Engineering Solutions Using Microsoft Fabric|GA|日本語あり|2026/01/26 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-700)|
+|AI-102 : Designing and Implementing a Microsoft Azure AI Solution|GA|日本語あり|2026/06/30 廃止予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-102)|
+|AI-300 : Operationalizing Machine Learning and Generative AI Solution|Beta|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-300)|
+|AI-900 : Microsoft Azure AI Fundamentals|GA|日本語あり|2026/06/30 廃止予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/AI-900)|
+|DP-100 : Designing and Implementing a Data Science Solution on Azure|GA|日本語あり|2026/06/01 廃止予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-100)|
+|DP-300 : Administering Microsoft Azure SQL Solutions|GA|日本語あり|2026/04/24 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-300)|
+|DP-420 : Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB|GA|日本語あり|2026/04/20 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-420)|
+|DP-600 : Implementing Analytics Solutions Using Microsoft Fabric|GA|日本語あり|2026/04/20 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-600)|
+|DP-700 : Implementing Data Engineering Solutions Using Microsoft Fabric|GA|日本語あり|2026/04/20 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-700)|
+|DP-750 : Implementing Data Engineering Solutions Using Azure Databricks|Beta|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-750)|
+|DP-800 : Developing AI-Enabled Database Solutions|Beta|英語のみ|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-800)|
 |DP-900 : Microsoft Azure Data Fundamentals|GA|日本語あり|2024/11/01 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/DP-900)|
 
 ### Dynamics 365 試験
@@ -65,8 +68,8 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
 |PL-200 : Microsoft Power Platform Functional Consultant|GA|日本語あり|2024/12/26 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-200)|
-|PL-300 : Microsoft Power BI Data Analyst|GA|日本語あり|2026/01/15 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-300)|
-|PL-400 : Microsoft Power Platform Developer|GA|日本語あり|2025/08/29 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-400)|
+|PL-300 : Microsoft Power BI Data Analyst|GA|日本語あり|2026/04/20 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-300)|
+|PL-400 : Microsoft Power Platform Developer|GA|日本語あり|2026/03/19 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-400)|
 |PL-500 : Microsoft Power Automate RPA Developer|GA|日本語あり|2024/07/08 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-500)|
 |PL-600 : Microsoft Power Platform Solution Architect|GA|日本語あり|2024/09/23 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-600)|
 |PL-900 : Microsoft Power Platform Fundamentals|GA|日本語あり|2025/06/20 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/PL-900)|
@@ -75,7 +78,7 @@
 |試験 ID : 試験名 |提供状況|提供言語|改定/廃止状況|学習ガイド|  
 |:--|:--|:--|:--|:--|
 |SC-100 : Microsoft Cybersecurity Architect|GA|日本語あり|2026/01/22 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-100)|
-|SC-200 : Microsoft Security Operations Analyst|GA|日本語あり|2026/01/22 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-200)|
+|SC-200 : Microsoft Security Operations Analyst|GA|日本語あり|2026/04/16 改定予定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-200)|
 |SC-300 : Microsoft Identity and Access Administrator|GA|日本語あり|2025/11/07 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-300)|
 |SC-401 : Administering Information Security in Microsoft 365|GA|日本語あり|-|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-401)|
 |SC-900 : Microsoft Security, Compliance, and Identity Fundamentals|GA|日本語あり|2025/11/07 改定|[リンク](https://learn.microsoft.com/credentials/certifications/resources/study-guides/SC-900)|
